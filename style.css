@@ -1,0 +1,36 @@
+#index {
+    background-color: rgb(94, 84, 58);
+}
+
+#shop {
+    background-color: rgb(94, 84, 58);
+}
+
+#pg1 {
+    background-color: rgb(94, 84, 58);
+}
+
+#contact {
+    background-color: rgb(94, 84, 58);
+}
+
+h1 {
+    color: darkblue;
+  }
+  
+  h5 {
+    color: rgb(14, 25, 27);
+  }
+
+  tr:hover {
+    background-color: whitesmoke;
+}
+
+
+  img {
+    height: 400px; 
+    padding: 75px;
+}
+text1 {
+    margin: 5%;
+}
